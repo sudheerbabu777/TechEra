@@ -1,0 +1,33 @@
+.msg {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  color: #1e293b;
+  margin-left: 12px;
+}
+
+.details-container {
+  display: flex;
+  align-items: flex-start;
+  width: 60%;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  margin-top: 60px;
+}
+
+.image-url {
+  width: 300px;
+  height: 400px;
+  border-radius: 12px;
+}
+
+.course-details-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.name-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}

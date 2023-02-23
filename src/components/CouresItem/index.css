@@ -1,0 +1,24 @@
+.item {
+  display: flex;
+  align-items: center;
+  margin: 30px;
+  width: 200px;
+  justify-content: center;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+  color: #1e293b;
+  margin-left: 12px;
+}
+
+.logo-image {
+  width: 80px;
+  height: 80px;
+}
+
+.link {
+  text-decoration: none;
+}

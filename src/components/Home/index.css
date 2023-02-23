@@ -1,0 +1,52 @@
+.list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.app-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  font-family: 'Roboto';
+  font-size: 54px;
+  font-weight: 600;
+  color: #1e293b;
+  align-self: flex-start;
+  margin-left: 100px;
+  margin-bottom: 0px;
+}
+
+.failure-title {
+  font-family: 'Roboto';
+  font-size: 44px;
+  font-weight: 600;
+  color: #1e293b;
+  text-align: center;
+}
+
+.failure-mag {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  color: #1e293b;
+  text-align: center;
+}
+
+.button {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 400;
+  background-color: #4656a1;
+  color: #ffffff;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+}
